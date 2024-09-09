@@ -34,14 +34,14 @@ To run the password manager, use the following command:
 
 
 ## File Structure
-```main.py```: The main application file that runs the password manager.
-```add_password.py```: Contains the logic for adding a password.
-```delete_password.py```: Contains the logic for deleting a password.
-```update_password.py```: Contains the logic for updating a password.
-```reveal_password.py```: Contains the logic for revealing a password.
-```view_password.py```: Contains the logic for viewing stored passwords.
-```passwords.json```: Stores the account information and encrypted passwords.
-```master.key```: The encryption key used for encrypting and decrypting passwords.
-```master_password.txt```: Stores the hashed master password.
+1. ```main.py```: The main application file that runs the password manager.
+2. ```add_password.py```: Contains the logic for adding a password.
+3. ```delete_password.py```: Contains the logic for deleting a password.
+4. ```update_password.py```: Contains the logic for updating a password.
+5. ```reveal_password.py```: Contains the logic for revealing a password.
+6. ```view_password.py```: Contains the logic for viewing stored passwords.
+7. ```passwords.json```: Stores the account information and encrypted passwords.
+8. ```master.key```: The encryption key used for encrypting and decrypting passwords.
+9. ```master_password.txt```: Stores the hashed master password.
 
 
